@@ -130,4 +130,8 @@ li {
   ul {
     display: none;
   }
+
+  br {
+      display: none;
+  }
 }
